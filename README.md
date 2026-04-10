@@ -7,7 +7,7 @@ modelagem e resolução do Problema do Carteiro Chinês em um **dígrafo pondera
 
 ## 🎥 Apresentação
 
-🔗 Assista à apresentação do trabalho aqui: 
+🔗 Assista à apresentação do trabalho aqui: https://youtu.be/eyPOmEGYAbo
 
 ---
 
